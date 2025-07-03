@@ -3,7 +3,7 @@ USE demo;
 CREATE TABLE students ( 
 id INT PRIMARY KEY AUTO_INCREMENT, 
 name VARCHAR(100),
- marks INT
+marks INT
 );
 INSERT INTO students (name, marks) VALUES
 (Pranav, 85),
